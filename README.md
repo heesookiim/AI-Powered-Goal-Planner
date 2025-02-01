@@ -1,5 +1,4 @@
-# Goal-Achievement-GPT
-
+# AI-Powered-Goal-Planner
 ## Introduction
 The **Goal Slayer** is a custom GPT designed to empower users to define, strategize, and achieve their goals. It follows a structured approach to goal setting and pursuit, integrating key principles of productivity and motivation. This project demonstrates the application of **AI/ML** to solve real-world problems with a **user-centric design**.
 
